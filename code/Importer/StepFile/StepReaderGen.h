@@ -407,7 +407,7 @@ namespace StepFile {
     // C++ wrapper type for presentation_style_select
     typedef SELECT presentation_style_select;
     // C++ wrapper type for presented_item_select
-    //typedef SELECT presented_item_select;
+    typedef SELECT presented_item_select;
     // C++ wrapper type for pressure_measure
     typedef REAL pressure_measure;
     // C++ wrapper type for product_definition_or_assembly_relationship
